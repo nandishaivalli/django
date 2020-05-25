@@ -1,3 +1,8 @@
+The given code is neetly explained by Harry from youtube.
+It is a working version of his code and some changes in his code 😊
+YouTube for harrys channel ; code with harry 
+
+
 RUN 
 
 cd to manage.py
